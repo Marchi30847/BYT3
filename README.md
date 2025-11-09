@@ -1,9 +1,12 @@
 # Calculator and Shapes Tests
 
 
+<pre>
  /\_/\    /\_/\    /\_/\
 ( o.o )  ( o.o )  ( o.o )
  > ^ <    > ^ <    > ^ <
+</pre>
+
 
 
 Overview
